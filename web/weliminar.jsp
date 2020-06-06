@@ -3,7 +3,8 @@
     Created on : 06-04-2020, 01:16:51 AM
     Author     : Guido
 --%>
-
+<%//Walmer Esteban
+//Karla Vannesa%>
 <%@page import="modelo.Persona"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
