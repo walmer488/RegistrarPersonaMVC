@@ -4,7 +4,8 @@
     Author     : Guido
 --%>
 
-
+<%//Walmer Esteban
+//Karla Vannesa%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <link href="./css/bootstrap.css" rel="stylesheet" type="text/css"/>
