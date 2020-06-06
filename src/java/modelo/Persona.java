@@ -1,4 +1,6 @@
 package modelo;
+//Walmer Esteban
+//Karla Vannesa
 
 import java.sql.*;
 import java.util.logging.Level;
